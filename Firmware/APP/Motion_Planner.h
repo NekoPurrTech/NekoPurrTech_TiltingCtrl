@@ -1,0 +1,8 @@
+//
+// Created by 15216 on 2024/11/20.
+//
+
+#ifndef FIRMWARE_MOTION_PLANNER_H
+#define FIRMWARE_MOTION_PLANNER_H
+
+#endif //FIRMWARE_MOTION_PLANNER_H
